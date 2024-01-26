@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://onzfonz.github.io/comp227/part0</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part0/general_info</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part7</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part8</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part0/syllabus</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part1/java_script</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part1/component_state_event_handlers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part2/forms</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part2/altering_data_in_server</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part2/getting_data_from_server</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part2/rendering_a_collection_modules</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part2/adding_styles_to_react_app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part0/fundamentals_of_web_apps</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part0/configuring_your_machine_for_this_course</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part1/introduction_to_react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/part1/a_more_complex_state_debugging_react_apps</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/challenge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/faq/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://onzfonz.github.io/comp227/thanks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
